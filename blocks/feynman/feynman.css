@@ -3,7 +3,7 @@
 @import url(./__link/feynman__link.css);
 
 .feynman {
-  min-height: 790px;
+  min-height: 890px;
   background-color: #f2f2f2;
   display: flex;
   flex-direction: column;
